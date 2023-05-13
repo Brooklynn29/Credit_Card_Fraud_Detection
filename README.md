@@ -12,12 +12,11 @@ https://drive.google.com/file/d/1wEokzZZVonnhpiRUcn6ZUEFRFpK4cKlZ/view?usp=share
 Dealing with unbalanced dataset
 Data Analysis
 Train Test Split 
-Lgistic Regression Model
+Logistic Regression Model
 Evaluation
 
-1)Libraries used 
-2)Numpy 
-3)Pandas
-4)Scikit Learn
+ 
+Numpy 
+Pandas<img width="960" alt="workflow" src="https://github.com/Brooklynn29/Credit_Card_Fraud_Detection/assets/102893908/223ae019-9505-4a60-addb-00567a1f59bf">
 
-    To be Continued...
+Scikit Learn
