@@ -6,17 +6,39 @@ In this projet I have analysied an unbalanced data using Pandas dataframe.
 
 
 
-Dataset File Link:
+Dataset File link:   
 https://drive.google.com/file/d/1wEokzZZVonnhpiRUcn6ZUEFRFpK4cKlZ/view?usp=share_link
 
-Dealing with unbalanced dataset
-Data Analysis
-Train Test Split 
-Logistic Regression Model
-Evaluation
+
+
+
+
+
+
 
  
-Numpy 
-Pandas<img width="960" alt="workflow" src="https://github.com/Brooklynn29/Credit_Card_Fraud_Detection/assets/102893908/223ae019-9505-4a60-addb-00567a1f59bf">
 
-Scikit Learn
+<img width="960" alt="workflow" src="https://github.com/Brooklynn29/Credit_Card_Fraud_Detection/assets/102893908/223ae019-9505-4a60-addb-00567a1f59bf">
+
+
+
+# Key Factors.
+
+Dealing with unbalanced dataset
+
+Data Analysis
+
+Train Test Split
+
+Logistic Regression Model
+
+Evaluation
+
+
+# Libraries Used.
+
+Pandas
+
+Sci-kit Learn
+
+Numpy 
